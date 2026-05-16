@@ -1,3 +1,14 @@
+/*
+    NOME DO PROJETO: CONNECTART
+    GRUPO:
+    ANDREW
+    LUISA SANTOS
+    ISABELI
+    FABRICIO
+    KAIQUE
+*/
+
+
 import javax.swing.JOptionPane;
 import java.io.FileWriter;
 import java.io.FileReader;

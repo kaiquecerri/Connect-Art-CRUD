@@ -80,7 +80,7 @@ public class Main {
         password = InputValidator.inputValidation(
             "Digite sua senha:",
             "A senha precisa ter ao menos 8 caracteres",
-            3
+            8
         );
 
         if (type == 0) {
